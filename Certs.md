@@ -2,7 +2,7 @@
 
 <h2>👨‍🎓 PROJECT COMPLETION CERTIFICATES:👨‍🎓</h2>
 
-<b><img src="https://github.com/Dakalo-Ndonde15/Azure-Network-Protocols/blob/Certificates/Credentials/Wireshark%20for%20Packet%20Capture%20Analyze%20web%20traffic.pdf">Wireshark for Beginners Capture (Unlimited Acces)</b>
+<b>![Repo Image](https://github.com/Dakalo-Ndonde15/Azure-Network-Protocols/blob/Certificates/Credentials/Wireshark_icon_new.png)Wireshark for Beginners Capture (Unlimited Acces)</b>
   - [Project: Wireshark for Beginners Capture ](https://www.coursera.org/projects/wireshark-for-beginners-capture-packets)
   -  [Credentials: Wireshark for Beginners Capture](https://github.com/Dakalo-Ndonde15/Azure-Network-Protocols/blob/Certificates/Credentials/Wireshark%20for%20Beginners%20Capture%20Packets.pdf)
  
